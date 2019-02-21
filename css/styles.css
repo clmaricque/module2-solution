@@ -1,0 +1,36 @@
+#title {
+    text-align: center;
+}
+
+* {box-sizing: border-box}
+
+section {
+    border-style: solid;
+    background-color: lightgrey;
+    width: 33%;
+    float: right;
+}
+
+h2 {
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 67%;
+    text-align: center;
+    width: 33%;
+    margin:0;
+    padding: 0;
+}
+
+#chicken_title {
+    background-color: lightcoral;
+}
+
+#beef_title {
+    background-color: crimson;
+    color: white;
+}
+
+#sushi_title {
+    background-color: tan 
+}
